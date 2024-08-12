@@ -47,11 +47,4 @@ Update banner description.
 Set banner display timer.
 Add a clickable link to the banner.
 MySQL Integration: Store and manage banner settings using a MySQL database.
-Contributing
-If you’d like to contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+ 
